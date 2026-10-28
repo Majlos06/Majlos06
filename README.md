@@ -68,7 +68,9 @@ I'm a Software Engineering student passionate about software development, partic
   <img src="https://img.shields.io/badge/GitHub-Majlos06-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/micha%C5%82-d%C4%85browski-a7ba13436/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
 </div>
 
