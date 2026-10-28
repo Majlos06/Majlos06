@@ -8,7 +8,8 @@ I am a Software Engineering student passionate about software development, parti
 🎯 Goal: gain practical experience and grow as a software developer.
 
 🌐 Socials
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-Majlos06-181717?style=for-the-badge&logo=github&logoColor=white)
+![LinkedIn](
+linkedin.com/in/michał-dąbrowski-a7ba13436)
 
 💻 Tech Stack
 
