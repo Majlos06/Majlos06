@@ -1,16 +1,37 @@
-## Hi there 👋
+Majlos06
+Software Engineering Student | C# · C++ · .NET
+💫 About Me
 
-<!--
-**Majlos06/Majlos06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineering student passionate about software development, particularly C++ and C#. I enjoy learning through practical projects, solving problems, and continuously improving my programming skills.
 
-Here are some ideas to get you started:
+🎮 Experience creating games in C# using Visual Studio.
+💻 Currently focusing on C++, .NET, and .NET MAUI.
+🌐 Exploring web development and modern frontend technologies.
+🎯 Goal: gain practical experience and grow as a software developer.
+🌐 Socials
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-Majlos06-181717?style=for-the-badge&logo=github&logoColor=white)
+
+💻 Tech Stack
+
+Core Technologies
+
+!C# !C++ !.NET !.NET MAUI !Visual Studio
+
+Web Development — Exploring
+
+!HTML5 !CSS3 !JavaScript !PHP !SQL !Angular !React
+
+📂 Projects
+
+I use my repositories to showcase my projects, explore new technologies, and document my progress as a developer.
+
+![Repositories](https://img.shields.io/badge/Explore-My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white)
+
+📊 GitHub Stats
+
+!GitHub Stats
+
+!Top Languages
+
+Always learning. Always building.
