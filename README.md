@@ -20,16 +20,4 @@ Web Development — Exploring
 
 !HTML5 !CSS3 !JavaScript !PHP !SQL !Angular !React
 
-📂 Projects
 
-I use my repositories to showcase my projects, explore new technologies, and document my progress as a developer.
-
-![Repositories](https://img.shields.io/badge/Explore-My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white)
-
-📊 GitHub Stats
-
-!GitHub Stats
-
-!Top Languages
-
-Always learning. Always building.
