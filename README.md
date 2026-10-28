@@ -14,5 +14,22 @@
 `C++` · `C#` · `.NET` · `.NET MAUI` · `Visual Studio`
 
 </div>
-
 ---
+
+
+## 💻 Tech Stack
+
+### Core Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,visualstudio&theme=dark" alt="C#, C++, .NET, Visual Studio" />
+</p>
+
+**Also working with:** .NET MAUI
+
+### Web Development — Exploring
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,angular,react&theme=dark" alt="HTML5, CSS3, JavaScript, PHP, SQL, Angular, React" />
+</p>
+
