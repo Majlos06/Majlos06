@@ -14,8 +14,19 @@
 `C++` · `C#` · `.NET` · `.NET MAUI` · `Visual Studio`
 
 </div>
+
 ---
 
+## 💫 About Me
+
+I'm a Software Engineering student passionate about software development, particularly **C++ and C#**. I enjoy learning through practical projects, solving problems, and continuously improving my programming skills.
+
+- 🎮 **Game Development:** Experience creating games in C# using Visual Studio
+- 💻 **Current Focus:** C++, .NET, and .NET MAUI
+- 🌐 **Web Development:** Exploring web development and modern frontend technologies
+- 🎯 **My Goal:** Gain practical experience and grow as a software developer
+
+---
 
 ## 💻 Tech Stack
 
@@ -30,6 +41,41 @@
 ### Web Development — Exploring
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,angular,react&theme=dark" alt="HTML5, CSS3, JavaScript, PHP, SQL, Angular, React" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,angular,react&theme=dark" alt="HTML5, CSS3, JavaScript, PHP, Angular, React" />
 </p>
 
+**Also exploring:** SQL
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Majlos06&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Majlos06&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🌐 Socials
+
+<div align="center">
+
+<a href="https://github.com/Majlos06">
+  <img src="https://img.shields.io/badge/GitHub-Majlos06-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Always learning. Always building.
+
+</div>
