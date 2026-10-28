@@ -1,25 +1,18 @@
-💫 About Me
 
-I am a Software Engineering student passionate about software development, particularly C++ and C#. I enjoy learning through practical projects, solving problems, and continuously improving my programming skills.
+<div align="center">
 
-🎮 Experience creating games in C# using Visual Studio
-💻 Currently focusing on C++, .NET, and .NET MAUI
-🌐 Exploring web development and modern frontend technologies
-🎯 Goal: gain practical experience and grow as a software developer
-💻 Tech Stack
+### WELCOME TO MY GITHUB PROFILE
 
-Core Technologies
+# Hi there, I'm Michał 👋
 
-!C# !C++ !.NET !.NET MAUI !Visual Studio
+**Software Engineering Student**
 
-Web Development — Exploring
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=B8B8B8&center=true&vCenter=true&width=480&lines=C%2B%2B+%26+C%23+Enthusiast;.NET+%26+.NET+MAUI+Explorer;Always+Learning.+Always+Building." alt="Typing SVG" />
 
-!HTML5 !CSS3 !JavaScript !PHP !SQL !Angular !React
+<br>
 
-🌐 Socials
+`C++` · `C#` · `.NET` · `.NET MAUI` · `Visual Studio`
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+</div>
 
-![GitHub](https://img.shields.io/badge/GitHub-Majlos06-181717?style=for-the-badge&logo=github&logoColor=white)
-
-Always learning. Always building.
+---
